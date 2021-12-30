@@ -50,3 +50,9 @@ footer{
 .imgs-line img{
     margin: 5px;
 }
+.screenshots{
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    opacity: 0;
+}
