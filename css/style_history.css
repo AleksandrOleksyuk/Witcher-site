@@ -55,5 +55,9 @@ footer{
   padding-left: 40px;
 }
 .history-p{
-  padding: 20px;
+  padding: 10px;
+}
+.histories h6{
+  font-weight: lighter;
+  font-size: 24px;
 }
